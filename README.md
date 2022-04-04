@@ -1,0 +1,1 @@
+"# dinamik-blog-yapma" 
